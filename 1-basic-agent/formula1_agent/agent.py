@@ -2,7 +2,7 @@ from google.adk.agents import Agent
 
 
 root_agent = Agent(
-    name="weather_time_agent",
+    name="formula1_agent",
     model="gemini-2.0-flash",
     description=(
         "formula1 "
